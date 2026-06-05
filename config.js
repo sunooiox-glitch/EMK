@@ -8,22 +8,22 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 212786946506;
+global.pairingNumber = 212772828914;
 global.owner = [
-  ['33759850405', 'KIM SUN OO (num¹)', true],
-  ['212773608927', 'KIM SUN OO (num²)', true],
+  ['33759850405', 'KIM SUN OO', true],
+  ['', 'Owner 2', true],
 ];
 
-global.namebot = 'RIOMEN';
+global.namebot = 'ℝ𝕀𝕆𝕄𝔼ℕ';
 global.author = 'KIM SUN OO';
-global.source = 'https://chat.whatsapp.com/LwmZJdinFNi1ZVmDv4N51u';
+global.source = 'https://chat.whatsapp.com/Hp3R0WWD5G8Li9HKBU6fn3';
 
 global.wait = 'Loading... | جاري الانتظار';
 global.eror = 'There is an error... | وقع خطأ';
 
 global.pakasir = {
 	slug: 'kilersbotz',
-	apikey: 'LwmZJdinFNi1ZVmDv4N51u',
+	apikey: 'bWDO2M8GcfruzXscdKNQJC3vw8Y8PV13',
 	expired: 30, //1 = 1menit. 30 = 30menit
 };
 
