@@ -8,9 +8,9 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 33759850405;
+global.pairingNumber = +212786946506;
 global.owner = [
-  ['33759850405', 'KIM SUN OO', true],
+  ['212786946506', 'KIM SUN OO', true],
   ['', 'Owner 2', true],
 ];
 
